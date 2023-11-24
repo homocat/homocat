@@ -2,7 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&pause=1000&color=F785EB&random=false&width=435&lines=%E7%BF%BB%E8%BD%AC%E6%9C%88%E5%85%89%2C+%E5%B2%A9%E7%9F%B3%E6%B4%92%E8%90%BD%E6%88%91%E8%BA%AB" alt="Typing SVG" /></a>
 
-<img alt="homocat's Github chart" src="https://ghchart.rshah.org/homocat" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div style="width:100%;text-align:center;">
 <p>
