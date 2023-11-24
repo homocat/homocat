@@ -1,6 +1,6 @@
 # 🐱 homocat | homocat <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&pause=1000&color=F785EB&random=false&width=435&lines=%E7%BF%BB%E8%BD%AC%E6%9C%88%E5%85%89%2C+%E5%B2%A9%E7%9F%B3%E6%B4%92%E8%90%BD%E6%88%91%E8%BA%AB" alt="Typing SVG" /></a>
 
 <img alt="homocat's Github chart" src="https://ghchart.rshah.org/homocat" />
 
