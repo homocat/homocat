@@ -1,7 +1,6 @@
 # 🐱 homocat | homocat <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
-GitHub 仓库代码语言占比：
 
-<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homocat&layout=compact&title_color=3a95ff&text_color=9f9f9f&&bg_color=151515" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
 
 <img alt="homocat's Github chart" src="https://ghchart.rshah.org/homocat" />
 
