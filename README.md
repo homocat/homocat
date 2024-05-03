@@ -1,5 +1,6 @@
 # 🐱 homocat | homocat <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
 
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&pause=1000&color=F785EB&random=false&width=435&lines=%E7%BF%BB%E8%BD%AC%E6%9C%88%E5%85%89%2C+%E5%B2%A9%E7%9F%B3%E6%B4%92%E8%90%BD%E6%88%91%E8%BA%AB" alt="Typing SVG" /></a>
 
 <picture>
